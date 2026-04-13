@@ -1,0 +1,1 @@
+A robot that hangs from 4 cables attached in the corners of a room. It is capable of pulling on those cables with motors to move around the room.

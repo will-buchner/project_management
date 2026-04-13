@@ -1,7 +1,5 @@
 Prototype (Yes/No):
 
-Project ID:
-
 Part ID:
 
 CAD Link:
