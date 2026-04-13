@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: [Insert Name]-inator
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is where our projects are tracked and organized.
